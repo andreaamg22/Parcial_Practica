@@ -1,6 +1,6 @@
 public interface  Function <E>{
     E Aplicar (E e);
-// ggjgggjjhjgjvjgjgjg
+    // ggjgggjjhjgjvjgjgjg
     //sdjkha
     Integer i(E e);
 

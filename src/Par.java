@@ -11,6 +11,5 @@ public class Par <E> extends Tupla<E>{
        //l
 
    }
-
 }
 
