@@ -8,6 +8,7 @@ public class Par <E> extends Tupla<E>{
   }
    public Par<E> Aplicar(Function<E> function){
        return new Par<E> (function.Aplicar(this.first),function.Aplicar(this.second));
+       //l
 
    }
 
