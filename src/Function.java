@@ -4,6 +4,5 @@ public interface  Function <E>{
     //sdjkha
     Integer i(E e);
 
-    Integer i(E e);
     String e(E f);
 }
